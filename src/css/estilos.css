@@ -76,7 +76,8 @@ margin-bottom: 80px;
 }
 
 .menu-lateral .icone{
-    width: 30px;
+    width: 50px;
+    margin: 10px;
     filter: invert(1);
     transition: 0.3s ease-in-out;
 }
